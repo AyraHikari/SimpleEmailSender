@@ -1,0 +1,11 @@
+C:\Users\tedyr\Documents\Visual Studio 2015\Projects\Simple Email Sender\Simple Email Sender\bin\Debug\Simple Email Sender.exe.config
+C:\Users\tedyr\Documents\Visual Studio 2015\Projects\Simple Email Sender\Simple Email Sender\bin\Debug\Simple Email Sender.exe
+C:\Users\tedyr\Documents\Visual Studio 2015\Projects\Simple Email Sender\Simple Email Sender\bin\Debug\Simple Email Sender.pdb
+C:\Users\tedyr\Documents\Visual Studio 2015\Projects\Simple Email Sender\Simple Email Sender\bin\Debug\Simple Email Sender.xml
+C:\Users\tedyr\Documents\Visual Studio 2015\Projects\Simple Email Sender\Simple Email Sender\obj\Debug\Simple_Email_Sender.Configure.resources
+C:\Users\tedyr\Documents\Visual Studio 2015\Projects\Simple Email Sender\Simple Email Sender\obj\Debug\Simple_Email_Sender.Home.resources
+C:\Users\tedyr\Documents\Visual Studio 2015\Projects\Simple Email Sender\Simple Email Sender\obj\Debug\Simple_Email_Sender.Resources.resources
+C:\Users\tedyr\Documents\Visual Studio 2015\Projects\Simple Email Sender\Simple Email Sender\obj\Debug\Simple Email Sender.vbproj.GenerateResource.Cache
+C:\Users\tedyr\Documents\Visual Studio 2015\Projects\Simple Email Sender\Simple Email Sender\obj\Debug\Simple Email Sender.exe
+C:\Users\tedyr\Documents\Visual Studio 2015\Projects\Simple Email Sender\Simple Email Sender\obj\Debug\Simple Email Sender.xml
+C:\Users\tedyr\Documents\Visual Studio 2015\Projects\Simple Email Sender\Simple Email Sender\obj\Debug\Simple Email Sender.pdb
