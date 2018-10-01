@@ -1,4 +1,5 @@
-#Simple Email Sender
+# Simple Email Sender
+
 This is some of my project, tested compile and test using before push to git.
 
 1. First configure your email
@@ -18,5 +19,6 @@ I'm using Simple Email Sender```
 
 4. Click send
 
-##Screenshot
+## Screenshot
+
 ![Screenshot](https://raw.githubusercontent.com/AyraHikari/SimpleEmailSender/master/Ss.png "Screenshot")
