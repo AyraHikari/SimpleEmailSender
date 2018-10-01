@@ -19,4 +19,4 @@ I'm using Simple Email Sender```
 4. Click send
 
 ##Screenshot
-https://raw.githubusercontent.com/AyraHikari/SimpleEmailSender/master/Ss.png
+![Screenshot](https://raw.githubusercontent.com/AyraHikari/SimpleEmailSender/master/Ss.png "Screenshot")
